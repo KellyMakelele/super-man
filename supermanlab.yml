@@ -1,0 +1,2 @@
+- name: Setup Bazel
+  uses: abhinavsingh/setup-bazel@v3
